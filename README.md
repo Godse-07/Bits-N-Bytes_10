@@ -1,5 +1,4 @@
-# HACKFEST (Topic : Smart Health Care)
-
+# HACKFEST (Topic: Smart Health Care)
 
 ## Hospital Management System Care and Cure
 
@@ -11,6 +10,7 @@ Our Hospital Management System Care and Cure is designed to streamline and optim
 
 The AI chatbot serves as a virtual guide, assisting patients with inquiries, providing information about services, and offering support throughout their healthcare journey. Our goal is to enhance efficiency, accuracy, and patient care within healthcare facilities, providing a seamless experience for both medical staff and patients.
 
+![Hospital Management System](https://example.com/hospital-management-system-screenshot.png)
 
 ## Features
 - **AI Chatbot**: Implement an AI-powered chatbot for patient interaction, providing information, assistance, and support.
@@ -19,7 +19,6 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 - **Staff Management**: Keep track of medical staff, their roles, schedules, and assignments.
 - **Inventory Management**: Manage hospital inventory, including medicines, medical equipment, and other supplies.
 - **Billing and Invoicing**: Generate bills and invoices for patient services and manage payment records.
-
 
 ## Usage
 1. Access the application through your web browser at [http://localhost:3000](http://localhost:3000) (or the appropriate port).
