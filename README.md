@@ -21,9 +21,13 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 - **Billing and Invoicing**: Generate bills and invoices for patient services and manage payment records.
 
 ## Usage
-1. Access the application through your web browser at [http://localhost:3000](http://localhost:3000) (or the appropriate port).
-2. Log in using your administrator credentials.
-3. Utilize various modules to manage hospital operations efficiently, and interact with the AI chatbot for patient support.
+1. Fork and clone the repository
+2. copy hospital folder
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+5. Create a database with name hms
+6. Import hms.sql file(given inside the SQL file folder)
+7. Run the script http://localhost/hospital (frontend)
 
 ## Contributors
 - Sarbojit Podder (L)
