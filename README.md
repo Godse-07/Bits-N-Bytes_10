@@ -1,4 +1,7 @@
-# Hospital Management System Care and Cure
+# HACKFEST (Topic : SMART HEALTH CARE)
+
+
+## Hospital Management System Care and Cure
 
 Welcome to the Hospital Management System **Care and Cure** repository, developed by **Team Bits N' Bytes**.
 
