@@ -1,4 +1,4 @@
-# HACKFEST (Topic : SMART HEALTH CARE)
+# HACKFEST (Topic : Smart Health Care)
 
 
 ## Hospital Management System Care and Cure
