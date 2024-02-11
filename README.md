@@ -10,7 +10,7 @@ Our Hospital Management System Care and Cure is designed to streamline and optim
 
 The AI chatbot serves as a virtual guide, assisting patients with inquiries, providing information about services, and offering support throughout their healthcare journey. Our goal is to enhance efficiency, accuracy, and patient care within healthcare facilities, providing a seamless experience for both medical staff and patients.
 
-![Hospital Management System](https://example.com/hospital-management-system-screenshot.png)
+![Hospital Management System](https://example.com/Hackfest.jpg)
 
 ## Features
 - **AI Chatbot**: Implement an AI-powered chatbot for patient interaction, providing information, assistance, and support.
