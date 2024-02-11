@@ -3,7 +3,6 @@
 Welcome to the Hospital Management System **Care and Cure** repository, developed by **Team Bits N' Bytes**.
 
 ## Introduction
-Welcome to the Hospital Management System Care and Cure repository, developed by Team Bits N' Bytes.
 
 Our Hospital Management System Care and Cure is designed to streamline and optimize hospital management processes. With an integrated AI-powered chatbot, this system aims to provide comprehensive support for managing patient records, appointments, medical staff, inventory, billing, and patient interaction.
 
