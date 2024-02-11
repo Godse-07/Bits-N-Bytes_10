@@ -14,9 +14,11 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 
 ## Features
 - As part of our project we have maintained 3 modules, which are:
-                                                             → Admin module
-                                                             → User module
-                                                             → Doctor module
+                                                          <tr>
+                                                            <td> → Admin module </td>
+                                                            <td>  → User module</td>
+                                                             <td> → Doctor module</td>
+                                                           </tr>
 - **AI Chatbot**: Implement an AI-powered chatbot for patient interaction, providing information, assistance, and support.
 - **Patient Management**: Easily manage patient records, including personal information, medical history, and treatment plans.
 - **Appointment Scheduling**: Efficiently schedule and manage patient appointments with doctors and other medical staff.
