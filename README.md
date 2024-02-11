@@ -39,6 +39,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Feedback
 We welcome feedback and contributions. Feel free to open an issue or submit a pull request.
 
-Thank you for using Hospital Management System Care and Cure!
+Thank you for using Care and Cure Hospital Management System. 
 
 **Team Bits N' Bytes**
