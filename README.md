@@ -13,6 +13,10 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 ![Hospital Management System](Hackfest.jpg)
 
 ## Features
+- As part of our project we have maintained 3 modules, which are:
+                                                             → Admin module
+                                                             → User module
+                                                             → Doctor module
 - **AI Chatbot**: Implement an AI-powered chatbot for patient interaction, providing information, assistance, and support.
 - **Patient Management**: Easily manage patient records, including personal information, medical history, and treatment plans.
 - **Appointment Scheduling**: Efficiently schedule and manage patient appointments with doctors and other medical staff.
@@ -22,12 +26,12 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
 
 ## Usage
 1. Fork and clone the repository
-2. copy hospital folder
+2. copy "hospital" folder
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
-5. Create a database with name hms
-6. Import hms.sql file(given inside the SQL file folder)
-7. Run the script http://localhost/hospital (frontend)
+4. Open "PHPMyAdmin" (http://localhost/phpmyadmin)
+5. Create a database with name "hms"
+6. Import hms.sql file(given inside the SQL file folder) to xampp/wamp/lamp server
+7. Run the script "http://localhost/hospital" (frontend)
 
 ## Contributors
 - Sarbojit Podder (L)
