@@ -19,10 +19,7 @@ The AI chatbot serves as a virtual guide, assisting patients with inquiries, pro
                                                            → Doctor module                                                       
 - **AI Chatbot**: Implement an AI-powered chatbot for patient interaction, providing information, assistance, and support.
 - **Patient Management**: Easily manage patient records, including personal information, medical history, and treatment plans.
-- **Appointment Scheduling**: Efficiently schedule and manage patient appointments with doctors and other medical staff.
-- **Staff Management**: Keep track of medical staff, their roles, schedules, and assignments.
-- **Inventory Management**: Manage hospital inventory, including medicines, medical equipment, and other supplies.
-- **Billing and Invoicing**: Generate bills and invoices for patient services and manage payment records.
+- **Appointment Scheduling**: Efficiently schedule and manage patient appointments with doctors.
 
 ## Usage
 1. Fork and clone the repository
